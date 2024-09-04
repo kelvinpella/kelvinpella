@@ -1,16 +1,25 @@
-## Hi there 👋
+# About Me:
+Frontend Developer
 
-<!--
-**kelvinpella/kelvinpella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=kelvinpella&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kelvinpella&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinpella&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kelvinpella&theme=calm&no-frame=false&no-bg=true&margin-w=4)
+
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kelvinpella&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kelvinpella&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinpella) 
+
