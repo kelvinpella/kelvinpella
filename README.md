@@ -14,6 +14,9 @@ Frontend Developer
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kelvinpella&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Codewars Badge
+![](https://www.codewars.com/users/kelvinpella/badges/large)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kelvinpella&icon=0&color=0)](https://visitcount.itsvg.in)
 
