@@ -1,9 +1,10 @@
-# About Me:  [![](https://visitcount.itsvg.in/api?id=kelvinpella&icon=0&color=0)](https://visitcount.itsvg.in)
-Frontend Developer
+Hi, I'm **Kelvin**!
 
+My passion for coding started in 2020 when I built a Python program to automate my workflow in 3D software CATIA.
+I shared my experience in this [linkedIn post](https://www.linkedin.com/posts/kelvinpella_i-have-developed-a-simple-python-program-activity-6738407375847362560-9mwR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkY1oYBeDbxFilarr27h_UOB4zIFJfVjJA).  
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+This project sparked my interest in programming, leading me to transition into a career in software development. The decision came with its own perks, such as getting a job in Germany as a frontend developer in 2024, where I worked for a year before returning home.  
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinpella) 
-
+I focus on building scalable, efficient, and user-friendly web applications with **React.Js**, **Next.Js**, **Javascript** and **Typescript**, while continuously learning and improving.
+ 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kelvinpella/).  
