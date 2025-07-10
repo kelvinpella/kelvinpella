@@ -1,3 +1,6 @@
+![bg1](https://github.com/user-attachments/assets/cb56dc2e-e14b-4b0a-a171-4822122528ea)
+
+
 Hi, I'm **Kelvin**!
 
 My passion for coding started in 2020 when I built a Python program to automate my workflow in 3D software CATIA.
