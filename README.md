@@ -1,4 +1,4 @@
-![bg1](https://github.com/user-attachments/assets/cb56dc2e-e14b-4b0a-a171-4822122528ea)
+<img width="3840" height="1192" alt="464934279-cb56dc2e-e14b-4b0a-a171-4822122528ea (3)" src="https://github.com/user-attachments/assets/0facc481-99b1-412f-8e75-c16b3167e092" />
 
 
 Hi, I'm **Kelvin**!
